@@ -1,0 +1,12 @@
+body {
+    margin: 0;
+  }
+  
+  .box {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: lightgrey;
+    color: black;
+  }
